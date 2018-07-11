@@ -37,6 +37,6 @@ You can find out even more at the site linked at the bottom of the [page](https:
 
 ## License
 
-**[![MIT License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)**
+**[MIT License](http://badges.mit-license.org)**
 
 Copyright 2018 © <a href="https://rotyflo.github.io" target="_blank">rotyflo</a>
