@@ -31,10 +31,6 @@ You can find out even more at the site linked at the bottom of the [page](https:
 
 - Create a new pull request using https://github.com/rotyflo/tribute-page/compare/
 
-## Technologies
-
-- Bootstrap
-
 ## License
 
 **[MIT License](http://badges.mit-license.org)**
